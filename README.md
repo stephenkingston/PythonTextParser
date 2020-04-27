@@ -17,5 +17,5 @@ The script is designed to parse HTML - if you are going to use a PDF, convert it
 
 
     ```
-    pip install xlwt xlwd beautifulsoup4
+    pip install xlwt xlrd beautifulsoup4
     ```
